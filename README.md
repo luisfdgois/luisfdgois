@@ -1,6 +1,6 @@
 <h3 align="center">👋 Olá, sou Luis Fernando!</h3>
 
-  Sou estudante de ciência da computação e desenvolvedor back-end. Já brinquei com vários tecnologias/linguagens para realização de projetos e trabalhos no mundo acadêmico, mas sempre tive um maior contanto com  tecnologias .Net/C#, além possuir maior domínio com essas. Sou adepto das boas práticas de programação e desenvolvimento, busco sempre aplicar conceitos do solid e clean code no meu dia a dia como desenvolvedor, além de defender a implementação de testes de unidade (e de integração) para uma melhor otimização do trabalho, e a redução de custos nos (próprios) testes e futuras refatorações de códigos.  
+  Sou estudante de ciência da computação e desenvolvedor back-end. Já brinquei com vários tecnologias/linguagens para realização de projetos e trabalhos no mundo acadêmico, mas sempre tive um maior contanto com  tecnologias .Net/C#, além possuir maior domínio com essas.  
   Atualmente tenho dedicado meu tempo livre no aprendizado de serviços de mensageria (RabbitMQ), e aprimorando e expandindo meu conhecimento em arquiteturas de Microsserviços.
 
 <h3 align="center"> Contatos e Redes Sociais</h3>
