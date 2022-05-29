@@ -15,7 +15,11 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github">    
     <img  alt="luisfdgois's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luisfdgois?cardType=github&theme=github" />  
   </a>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfdgois&layout=compact&langs_count=6&theme=github-dark"/>
+</div>
+
+</p>
+<div align="center">
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfdgois&layout=compact&langs_count=6&theme=github-dark"/>
 </div>
  
 <!--
