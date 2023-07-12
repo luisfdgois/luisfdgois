@@ -1,7 +1,12 @@
 <h3 align="center">👋 Olá, sou Luis Fernando!</h3>
 
-  Sou graduado em ciência da computação e desenvolvedor back-end. Já brinquei com algumas tecnologias/linguagens para realização de projetos e trabalhos acadêmico, entretanto, sempre tive um contanto maior com tecnologias .Net/C#.
-  Atualmente tenho dedicado meu tempo livre no aprendizado de serviços de mensageria (RabbitMQ), e aprimorando e expandindo meu conhecimento em arquiteturas de Microsserviços.
+  Sou formado em ciência da computação e tenho experiência como desenvolvedor back-end. Durante minha jornada acadêmica, explorei diversas tecnologias e linguagens para realizar trabalhos e projetos, mas sempre tive uma afinidade maior com as tecnologias .NET/C#.
+
+No momento, estou dedicando meu tempo livre ao aprendizado de serviços de mensageria, com foco especial no RabbitMQ. Além disso, estou aprimorando e expandindo meus conhecimentos em conceitos e práticas arquiteturais.
+
+Sou apaixonado por construir soluções robustas e eficientes, buscando sempre a excelência em cada projeto que abordo.
+
+Seja bem-vindo ao meu perfil do GitHub, onde compartilho meus projetos, experimentos e ideias. Fique à vontade para explorar meu trabalho e entrar em contato para discutir possíveis colaborações ou trocar experiências na área de desenvolvimento.
 
 <h3 align="center"> Contatos e Redes Sociais</h3>
 <div align="center">
