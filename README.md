@@ -4,7 +4,7 @@
 
 No momento, estou dedicando meu tempo livre ao aprendizado de serviços de mensageria, com foco especial no RabbitMQ. Além disso, estou aprimorando e expandindo meus conhecimentos em conceitos e práticas arquiteturais.
 
-Sou apaixonado por construir soluções robustas e eficientes, buscando sempre a excelência em cada projeto que abordo.
+Sou apaixonado por construir soluções robustas e eficientes, buscando sempre a excelência em cada projeto que desenvolvo.
 
 Aqui compartilho meus projetos, experimentos e ideias. Fique à vontade para explorar meu trabalho e entrar em contato para discutir possíveis colaborações ou trocar experiências na área de desenvolvimento.
 
