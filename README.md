@@ -6,8 +6,6 @@ No momento, estou dedicando meu tempo livre ao aprendizado de serviços de mensa
 
 Sou apaixonado por construir soluções robustas e eficientes, buscando sempre a excelência em cada projeto que desenvolvo.
 
-Aqui compartilho meus projetos, experimentos e ideias. Fique à vontade para explorar meu trabalho e entrar em contato para discutir possíveis colaborações ou trocar experiências na área de desenvolvimento.
-
 <h3 align="center"> Contatos e Redes Sociais</h3>
 <div align="center">
   
