@@ -1,6 +1,6 @@
 <h3 align="center">👋 Olá, sou Luis Fernando!</h3>
 
-  Sou formado em ciência da computação e tenho experiência como desenvolvedor back-end. Durante minha jornada acadêmica, explorei diversas tecnologias e linguagens para realizar trabalhos e projetos, mas sempre tive uma afinidade maior com as tecnologias .NET/C#.
+  Sou bacharel em ciência da computação e trabalho como desenvolvedor back-end. Durante minha jornada acadêmica, explorei diversas tecnologias e linguagens para realização de trabalhos e projetos, porém C# e .NET tem prevalecido no meu dia a dia profissional.
 
 No momento, estou dedicando meu tempo livre ao aprendizado de serviços de mensageria, com foco especial no RabbitMQ. Além disso, estou aprimorando e expandindo meus conhecimentos em conceitos e práticas arquiteturais.
 
